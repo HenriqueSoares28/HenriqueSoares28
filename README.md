@@ -2,7 +2,7 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique_franca28/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-frança-carvalho-soares-70a4bb209/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-soares-70a4bb209/)
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSoares28&show_icons=true&theme=dracula&count_private=true)
