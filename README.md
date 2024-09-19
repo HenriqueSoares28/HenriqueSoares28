@@ -27,7 +27,7 @@
 
 ## Sobre mim
 
-- Estudante de Ciência da Computação na PUC-MG e Administração de Empresas no CEFET-MG.
+- Estudante de Ciência da Computação na PUC-MG e Administração no CEFET-MG.
 - Experiência em pesquisa na área de análise de imagens, focada no estudo de células cancerígenas no IMScience Lab.
 - Desenvolvimento de aplicativos móveis utilizando Flutter e integração com APIs e serviços de backend como Firebase.
 - Trabalho com tecnologias como C, C++, Python, Java, e Go, além de frameworks como Flutter, Spring Boot, e Flask.
